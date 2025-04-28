@@ -16,7 +16,7 @@ The goal was to identify patterns in admissions, discharges, and patient length 
 
 ## 📈 Admissions and Discharges Over Time
 
-![Admissions and Discharges Chart](./niagara_health_patient_flow/Insights_Summary_Screenshot.png)
+![Admissions and Discharges Chart](./niagara_health_patient_flow/niagara_health_patient_flow/Insights_Summary_Screenshot.png)
 
 ---
 
