@@ -14,10 +14,9 @@ The goal was to identify patterns in admissions, discharges, and patient length 
 
 ---
 
-## 🛠 Tools Used
+## 📈 Admissions and Discharges Over Time
 
-- Microsoft Excel (PivotTables, Charts, Data Cleaning)
-- Power BI (Dashboard - coming soon)
+![Admissions and Discharges Chart](./niagara_health_patient_flow/niagara_health_patient_flow.png)
 
 ---
 
