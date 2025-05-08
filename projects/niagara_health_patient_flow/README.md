@@ -65,7 +65,7 @@ The goal was to identify patterns in admissions, discharges, and patient length 
 ## 📂 Files Included
 
 - `Niagara_Health_Patient_Flow_Analysis.xlsx` — Full Excel analysis workbook.
-- `Insights_Summary_Screenshot.png` — Summary of key metrics and findings. (Optional if you add!)
+- `Insights_Summary_Screenshot.png` — Summary of key metrics and findings. 
 
 ---
 
