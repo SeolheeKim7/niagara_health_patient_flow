@@ -7,10 +7,10 @@ This repository showcases my healthcare data analysis projects focused on patien
 
 ## 📂 Projects Included
 
-### 🔹 Niagara Health Patient Flow Analysis (April 2025)
+### 🔹 HealthNova Patient Flow Analysis (April 2025)
 
 **Description**:  
-Analyzed simulated hospital patient admissions and discharges during a HIS Go Live period to identify bottlenecks and recommend flow improvements.
+Analyzed simulated hospital patient admissions and discharges to identify bottlenecks and recommend flow improvements.
 
 **Highlights**:
 - Calculated average patient length of stay across units
@@ -20,7 +20,7 @@ Analyzed simulated hospital patient admissions and discharges during a HIS Go Li
 **Key Skills Used**:  
 Excel (PivotTables, Formulas, Data Cleaning), Data Visualization, Analytical Reporting
 
-➡️ [Explore the Niagara Health Project Here](./projects/niagara_health_patient_flow/README.md)
+➡️ [Explore the HealthNova Project Here](./projects/niagara_health_patient_flow/README.md)
 
 ---
 
