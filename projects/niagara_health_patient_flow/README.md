@@ -1,6 +1,6 @@
-# Niagara Health Patient Flow Analysis (April 2025)
+# HealthNova Patient Flow Analysis (April 2025)
 
-This project analyzes simulated patient flow data for Niagara Health during a HIS (Health Information System) Go Live period.  
+This project analyzes simulated patient flow data for HealthNova.  
 The goal was to identify patterns in admissions, discharges, and patient length of stay to recommend operational improvements.
 
 ---
